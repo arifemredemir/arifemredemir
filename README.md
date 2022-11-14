@@ -6,7 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/arifemredemirr" target="blank"><img src="https://img.shields.io/twitter/follow/arifemredemirr?logo=twitter&style=for-the-badge" alt="arifemredemirr" /></a> </p>
 
+- 🔭 I’m currently working on **Turk Telekom**
+
+- 🌱 I’m currently learning **Python, Swift**
+
 - 💬 Ask me about **pandas, matplotlib, numpy**
+
+- 📫 How to reach me **arifemre.demir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifemredemir&show_icons=true&locale=en" alt="arifemredemir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifemredemir&" alt="arifemredemir" /></p>
+
